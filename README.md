@@ -4,3 +4,6 @@ The following Repository is for my college module [Emerging Technologies](https:
 ![TN](https://blog.rescale.com/wp-content/uploads/2017/02/markblogtensorflow.png "TensorFlow logo")
 
 [Tensorflow](https://www.tensorflow.org/) is an open source library for numerial computatin using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them.
+
+![jup](http://jupyter.org/assets/main-logo.svg "jupyter logo")
+Tensorflow is compiled and ran inside the [Jupter Notebook](http://jupyter.org/)
