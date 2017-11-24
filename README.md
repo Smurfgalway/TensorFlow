@@ -11,7 +11,10 @@ Tensorflow is compiled and ran inside the [Jupter Notebook](http://jupyter.org/)
 
 ![Keras](https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg "Keras")
 
-In this problem sheet I will be using[Keras](https://keras.io/). Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+In this problem sheet I will be using [Keras](https://keras.io/). Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+below is a visual representation of a neural netowrk
+
+![net](https://www.pyimagesearch.com/wp-content/uploads/2016/08/simple_neural_network_header.jpg "neural network")
 
 In this particular Problem sheet Jupyter and Tensorflow are reading from the [Iris Data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) 
 below is a Scatterplot of the data set and a small screenshot of the data contained in the dataset. A full view of the data can be gotten by clicking the iris.csv in this Repository
